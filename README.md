@@ -12,3 +12,4 @@ Misc files to be shared
 |__Bed_Handle_sub.STL__|DP200 bed handle sub assembly .STL file from Sindoh|
 | | |
 |__Sindoh_DP200_Bed_Latch_3.stl__|"Improved" all in one DP200 bed handle .STL file from non-Sindoh contributor|
+|__v5 - DP200 (Bobot).fff__|Simplify3D 5.0 profile for PLA on Sindoh 3DWOX DP200|
